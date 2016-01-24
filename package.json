@@ -1,0 +1,24 @@
+{
+  "name": "torrent-stream-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magnetikio/torrent-stream-microservice.git"
+  },
+  "keywords": [
+    "streaming",
+    "audio",
+    "torrent"
+  ],
+  "author": "Matias Insaurralde <matias@insaurral.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magnetikio/torrent-stream-microservice/issues"
+  },
+  "homepage": "https://github.com/Magnetikio/torrent-stream-microservice#readme"
+}
