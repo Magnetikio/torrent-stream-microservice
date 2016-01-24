@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Magnetikio/torrent-stream-microservice/issues"
   },
-  "homepage": "https://github.com/Magnetikio/torrent-stream-microservice#readme"
+  "homepage": "https://github.com/Magnetikio/torrent-stream-microservice#readme",
+  "dependencies": {
+    "socket.io": "^1.4.4"
+  }
 }
