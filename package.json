@@ -24,6 +24,7 @@
   "dependencies": {
     "orchestrate": "^0.7.0",
     "socket.io": "^1.4.4",
+    "stream-segmenter": "^1.0.1",
     "torrent-stream": "^1.0.2"
   }
 }
